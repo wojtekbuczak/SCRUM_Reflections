@@ -1,0 +1,1 @@
+1. Funkcjonalne opisuj¹ funkcje jakie ma spe³niaæ, a niefunkcjonalne ograniczenia w jakich ma dszia³aæ.
